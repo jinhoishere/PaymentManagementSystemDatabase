@@ -1,6 +1,6 @@
 # Payment Management Database : Paymo
 
-This is my final project for CS 3700(Introduction to Databases and Modeling) class. It's a group-work done with my classmate, Brady Wheelhouse, and we created a database for payment management system using Oracle data modeler and developer.
+This is our final project for CS 3700(Introduction to Databases and Modeling) class. It's a group-work done with my classmate, Brady Wheelhouse, and we created a database for payment management system using Oracle data modeler and developer.
 
 ### Project Description
 "Paymo" is a new money transfer company that needs a database for their operations. The database will need to track clients, senders, receivers, benefits, cards and bank accounts used, and transactions.
